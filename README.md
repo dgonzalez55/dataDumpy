@@ -4,7 +4,7 @@
 
 Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this tool.**
 
-# DataDumpy - A simple MySQL/MariaDB Data Dumper 🧑‍💻
+# DataDumpy - A MySQL/MariaDB Data Dumper 🧑‍💻
 Developed by David González [dgonzalez55](https://github.com/dgonzalez55/)
 
 Latest Release: v1.0.0. December 26, 2022
