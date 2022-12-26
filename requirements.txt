@@ -1,0 +1,2 @@
+mysql-connector-python==8.0.31
+pyfiglet>=0.7
